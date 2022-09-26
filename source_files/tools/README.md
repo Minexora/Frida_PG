@@ -1,0 +1,3 @@
+- apktool ve apktool.jar dosyaları **/usr/local/bin** yoluna kopyalanmalıdır.
+- JD-GUI indrmek için https://java-decompiler.github.io/ adresine gidilerek dosya işletim sistemne göre indirilir.
+- dex2jar indirmek için https://github.com/pxb1988/dex2jar adresinden realese bölüümden indirilir.
