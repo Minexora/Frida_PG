@@ -1,7 +1,7 @@
 "use strict";
 
 /**
- * ! .
+ * ! Uygulama içerisindeki şifreleme algoritmasını override ederek salt kısmını ve hangi key geldiği görülebilmektedir.
  *
  */
 if (Java.available) {
